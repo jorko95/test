@@ -1,24 +1,31 @@
 {
-  "id": [
+  "posts": [
     {
       "id": 1,
-      "posts": 3,
+      "title": "Post 1"
     },
     {
       "id": 2,
-      "posts": 12,
+      "title": "Post 2"
     },
     {
       "id": 3,
-      "posts": 7,
-    },
-    {
-      "id": 4,
-      "posts": 5,
-    },
-    {
-      "id": 5,
-      "posts": 4,
+      "title": "Post 3"
     }
-  ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
