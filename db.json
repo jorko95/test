@@ -1,10 +1,10 @@
 {
   "users": [
-    { "id": 1, "posts": 4 },
-    { "id": 2, "posts": 7 },
-    { "id": 3, "posts": 5 },
-    { "id": 4, "posts": 9 },
-    { "id": 5, "posts": 3 }
+    { "id": "seba", "posts": 4 },
+    { "id": "nico", "posts": 6 },
+    { "id": "jk", "posts": 2 },
+    { "id": "mauricio", "posts": 8 },
+    { "id": "luigi", "posts": 5 }
   ]
 }
 
